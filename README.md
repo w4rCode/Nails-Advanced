@@ -1,5 +1,5 @@
 # Nails-Advanced
-Landing page sobre um curso de unhas
+Landing page sobre um curso de unhas .
 
 <h1>Versão Desktop </h1>
 
